@@ -221,3 +221,11 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Local runtime and credentials
+.env
+.env.*
+!.env.example
+.streamlit/secrets.toml
+.runtime/
+tts_outputs/
