@@ -8,3 +8,4 @@ google-cloud-texttospeech==2.14.1
 google-api-python-client==2.126.0
 google-auth==2.29.0
 google-generativeai
+pyarrow<15
